@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.78.0](https://github.com/immich-app/static-pages/compare/ui-v0.77.3...ui-v0.78.0) (2026-05-15)
+
+
+### Features
+
+* change locale on ui lib docs pages ([#509](https://github.com/immich-app/static-pages/issues/509)) ([7c6f74b](https://github.com/immich-app/static-pages/commit/7c6f74bf8a9f45aa7c9ef3a823cf711d68ecdbd5))
+
 ## [0.77.3](https://github.com/immich-app/static-pages/compare/ui-v0.77.2...ui-v0.77.3) (2026-05-04)
 
 
